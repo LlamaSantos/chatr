@@ -1,0 +1,14 @@
+{
+    "name" : "chatr",
+    "version" : "0.0.1",
+    "description" : "Web Based Chat Program.",
+    "devDependencies" : {
+        "mocha" : "*"
+    },
+    "dependencies" : {
+        "underscore" : "*",
+        "async" : "*",
+        "nodeject" : "*",
+        "node-xmpp" : "*"
+    }
+}
